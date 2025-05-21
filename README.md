@@ -9,9 +9,9 @@ This work was done by Theo Domingues, Ryhan Chebrek, Matéo Molinaro and Julien 
 </p>
 
 <p align="center">
-  <img src="cover_report_covol_1.png" alt="Alt text" />
-  <img src="cover_report_covol_2.png" alt="Alt text" />
-  <img src="cover_report_covol_3.png" alt="Alt text" />
-  <img src="cover_report_covol_4.png" alt="Alt text" />
+  <img src="cover_presentation_covol_1.png" alt="Alt text" />
+  <img src="cover_presentation_covol_2.png" alt="Alt text" />
+  <img src="cover_presentation_covol_3.png" alt="Alt text" />
+  <img src="cover_presentation_covol_4.png" alt="Alt text" />
 </p>
 
